@@ -30,7 +30,7 @@ Final Image:
 
 1. Describe your project.
 
-   - For my project, I decided to create a rubber duckie. I chose this image because it reminds me of computer science in general.
+   - For my project, I decided to create a rubber duckie. I chose this image because it reminds me of computer science in general. I also love ducks and birds. When I was younger, my mom would always take me to the nearby duck pond to feed bread to the ducks swimming. It's a really fond memory for me.
 
 2. What are two things about your project that you are proud of?
 
@@ -38,4 +38,4 @@ Final Image:
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - If I had the opportunity to change something about my project, I would try to do the 32 x 32 canvas in order to get the extra credit points.
+   - If I had the opportunity to change something about my project, I would try to do the 32 x 32 canvas in order to get the extra credit points. I would also choose a more complicated design for my project.
