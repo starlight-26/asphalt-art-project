@@ -18,9 +18,9 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-<img src="IMG_8741.jpg" alt="Draft image:pixal art duck on paper">
+<img src="Screenshot 2024-09-13 9.27.59 AM.png" alt="Draft image:pixal art duck on paper">
 
-<img src="Screenshot 2024-09-09 1.05.37 PM.png" alt="Final image:pixal art duck">
+<img src="Screenshot 2024-09-13 9.26.38 AM.png" alt="Final image:pixal art duck">
 
 ## Reflection
 
